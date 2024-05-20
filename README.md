@@ -62,4 +62,17 @@ Build CRUD REST APIs for **Department Management Module**
 - Delete Department
 
 
+# Images
+
+![1](https://github.com/panditsamik/Employee-Management-System/assets/91545371/98c724f6-7c0d-443a-9626-12c938cce1ac)
+
+
+![2](https://github.com/panditsamik/Employee-Management-System/assets/91545371/fe50c537-9cb1-4f4c-8683-2cc9c62edaeb)
+
+---
+
+# Video
+
+
+https://github.com/panditsamik/Employee-Management-System/assets/91545371/5f124205-c06d-430d-bfcd-f0b77015328d
 
