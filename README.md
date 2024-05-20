@@ -61,6 +61,7 @@ Build CRUD REST APIs for **Department Management Module**
 - Update Department
 - Delete Department
 
+---
 
 # Images
 
